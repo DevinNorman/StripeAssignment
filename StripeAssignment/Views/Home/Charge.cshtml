@@ -1,0 +1,30 @@
+﻿
+@{
+  ViewData["Title"] = "Charge";
+}
+
+@model StripeAssignment.Models.ChargeResponse
+
+@{if ((bool?)Model.Success == true)
+  {
+    <h1>Charge Successful</h1>
+    if ((int?)Model.Amount != null)
+    {
+      <h2>Amount = @Model.Amount</h2>
+    }
+    else if (Model.Secure3D == true)
+    {
+      <h2>3D Secure payment was successfull</h2>
+    }
+  }
+  else if ((bool?)Model.Success == false)
+  {
+    <h1>Charge Not Successful</h1>
+  }
+  else if ((bool?)Model.Success == null)
+  {
+    <h1>You shouldn't be on this page dude/dudette</h1>
+  }
+}
+
+

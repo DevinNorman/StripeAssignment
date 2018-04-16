@@ -1,0 +1,11 @@
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\bin\Debug\netcoreapp2.0\StripeAssignment.deps.json
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\bin\Debug\netcoreapp2.0\StripeAssignment.runtimeconfig.json
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\bin\Debug\netcoreapp2.0\StripeAssignment.runtimeconfig.dev.json
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\bin\Debug\netcoreapp2.0\StripeAssignment.dll
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\obj\Debug\netcoreapp2.0\StripeAssignment.csprojResolveAssemblyReference.cache
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\obj\Debug\netcoreapp2.0\StripeAssignment.csproj.CoreCompileInputs.cache
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\obj\Debug\netcoreapp2.0\StripeAssignment.AssemblyInfoInputs.cache
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\obj\Debug\netcoreapp2.0\StripeAssignment.AssemblyInfo.cs
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\bin\Debug\netcoreapp2.0\StripeAssignment.pdb
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\obj\Debug\netcoreapp2.0\StripeAssignment.dll
+c:\users\dnorman.singular\documents\visual studio 2017\Projects\StripeAssignment\StripeAssignment\obj\Debug\netcoreapp2.0\StripeAssignment.pdb
